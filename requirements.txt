@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+gensim
+numpy
+scipy
+bs4
+wikipedia
